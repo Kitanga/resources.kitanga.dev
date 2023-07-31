@@ -50,12 +50,6 @@
         "url": "http://web.archive.org/web/20220203004639/https://kitanga.dev/"
     },
     {
-        "title": "[Demo] Music Player",
-        "img": "music-player.png",
-        "url": "https://kitanga.github.io/kitanga_nday-HTML_Responsive-01/index.html",
-        "code": "https://github.com/kitanga/kitanga_nday-HTML_Responsive-01/"
-    },
-    {
         "title": "[Demo] Voice Controlled Wikipedia Search",
         "img": "voice-controlled.png",
         "url": "https://codepen.io/kitanga/full/aQzXON"
