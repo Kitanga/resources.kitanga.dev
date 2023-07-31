@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Obsidi",
+        "img": "obsidi.png",
+        "url": "https://timeshuffle.io"
+    },
+    {
+        "title": "TimeShuffle (Fullstack)",
+        "img": "timeshuffle.jpg",
+        "url": "https://timeshuffle.io"
+    },
+    {
+        "title": "Star Popz slot game",
+        "img": "starpopz.jpg",
+        "url": "https://www.aboutslots.com/casino-slots/star-pops"
+    },
+    {
+        "title": "Kitanga.dev 2022",
+        "img": "site_2022.jpg",
+        "url": "http://web.archive.org/web/20221003021435/https://kitanga.dev/"
+    },
+    {
+        "title": "[Demo] Web FPS Demo",
+        "img": "fps.png",
+        "url": "https://nday-media.itch.io/african-fend-off-the-blobs-prealpha"
+    },
+    {
+        "title": "[Demo] Dynamo Shmup (Gamepad supported)",
+        "img": "dynamo.png",
+        "url": "http://dynamo-shmup.herokuapp.com/"
+    },
+    {
+        "title": "Silverball Slot Game",
+        "img": "silverball.jpg",
+        "url": "https://www.youtube.com/watch?v=NbDXXGMBDPU"
+    },
+    {
+        "title": "Around The Reels in 80 Wilds Jackpot",
+        "img": "around_the_reels.jpg",
+        "url": "https://youtube.com/watch?v=7h4omxDug5k"
+    },
+    {
+        "title": "Jalapeno Racers",
+        "img": "jalapeno.jpg",
+        "url": "https://roxorgaming.com"
+    },
+    {
+        "title": "Kitanga.dev 2021",
+        "img": "old_website_2021.png",
+        "url": "http://web.archive.org/web/20220203004639/https://kitanga.dev/"
+    },
+    {
+        "title": "[Demo] Music Player",
+        "img": "music-player.png",
+        "url": "https://kitanga.github.io/kitanga_nday-HTML_Responsive-01/index.html",
+        "code": "https://github.com/kitanga/kitanga_nday-HTML_Responsive-01/"
+    },
+    {
+        "title": "[Demo] Voice Controlled Wikipedia Search",
+        "img": "voice-controlled.png",
+        "url": "https://codepen.io/kitanga/full/aQzXON"
+    },
+    {
+        "title": "[Demo] Trip Price Estimator",
+        "img": "trip_estimator.png",
+        "url": "https://codepen.io/kitanga/full/gqXENW"
+    },
+    {
+        "title": "[Mobile Only] NED App",
+        "img": "ned.png",
+        "url": "https://nedapp.co.za/"
+    }
+]
