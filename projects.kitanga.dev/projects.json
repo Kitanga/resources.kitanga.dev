@@ -1,13 +1,13 @@
 [
     {
-        "title": "TimeShuffle (Fullstack)",
-        "img": "timeshuffle.webp",
-        "url": "https://timeshuffle.io"
-    },
-    {
         "title": "Obsidi",
         "img": "obsidi.webp",
         "url": "https://obsidi.com"
+    },
+    {
+        "title": "TimeShuffle (Fullstack)",
+        "img": "timeshuffle.webp",
+        "url": "https://timeshuffle.io"
     },
     {
         "title": "Star Popz slot game",
