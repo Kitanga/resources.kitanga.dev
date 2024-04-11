@@ -1,0 +1,9 @@
+{
+  "name": "resources.kitanga.dev",
+  "version": "1.0.0",
+  "repository": "https://github.com/Kitanga/resources.kitanga.dev.git",
+  "author": "Kitanga Nday <kitanganday@gmail.com>",
+  "dependencies": {
+    "sharp": "^0.33.3"
+  }
+}
