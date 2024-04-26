@@ -2,56 +2,106 @@
     {
         "title": "Obsidi",
         "img": "obsidi.webp",
-        "url": "https://app.obsidi.com/jobs"
+        "url": "https://app.obsidi.com/jobs",
+        "stack": [
+            "JS/TS",
+            "React",
+            "Material UI",
+            "Knexjs",
+            "Styled Components",
+            "Quilljs",
+            "Figma"
+        ]
     },
     {
         "title": "TimeShuffle (Fullstack)",
         "img": "timeshuffle.webp",
-        "url": "https://timeshuffle.io"
+        "url": "https://timeshuffle.io",
+        "stack": [
+            "Pixijs",
+            "NodeJS",
+            "Moleculerjs",
+            "Prisma",
+            "Cocos 3D",
+            "Firebase"
+        ]
     },
     {
         "title": "Star Popz slot game",
         "img": "starpopz.webp",
-        "url": "https://www.aboutslots.com/casino-slots/star-pops"
+        "url": "https://www.aboutslots.com/casino-slots/star-pops",
+        "stack": [
+            "JS/TS",
+            "Pixijs"
+        ]
     },
     {
         "title": "Kitanga.dev 2022",
         "img": "site_2022.webp",
-        "url": "http://web.archive.org/web/20221003021435/https://kitanga.dev/"
+        "url": "http://web.archive.org/web/20221003021435/https://kitanga.dev/",
+        "stack": [
+            "JS/TS",
+            "Solidjs"
+        ]
     },
     {
         "title": "[Demo] Web FPS Demo",
         "img": "fps.webp",
-        "url": "https://nday-media.itch.io/african-fend-off-the-blobs-prealpha"
+        "url": "https://nday-media.itch.io/african-fend-off-the-blobs-prealpha",
+        "stack": [
+            "JS/TS",
+            "Threejs"
+        ]
     },
     {
         "title": "[Demo] Dynamo Shmup (Gamepad supported)",
         "img": "dynamo.webp",
-        "url": "http://dynamo-shmup.herokuapp.com/"
+        "url": "http://dynamo-shmup.herokuapp.com/",
+        "stack": [
+            "JS/TS",
+            "Pixijs"
+        ]
     },
     {
         "title": "Silverball Slot Game",
         "img": "silverball.webp",
-        "url": "https://www.youtube.com/watch?v=NbDXXGMBDPU"
+        "url": "https://www.youtube.com/watch?v=NbDXXGMBDPU",
+        "stack": [
+            "JS/TS",
+            "Pixijs"
+        ]
     },
     {
         "title": "Kitanga.dev 2021",
         "img": "old_website_2021.webp",
-        "url": "http://web.archive.org/web/20220203004639/https://kitanga.dev/"
+        "url": "http://web.archive.org/web/20220203004639/https://kitanga.dev/",
+        "stack": [
+            "Vuejs"
+        ]
     },
     {
         "title": "[Demo] Voice Controlled Wikipedia Search",
         "img": "voice-controlled.webp",
-        "url": "https://codepen.io/kitanga/full/aQzXON"
+        "url": "https://codepen.io/kitanga/full/aQzXON",
+        "stack": [
+            "Reactjs"
+        ]
     },
     {
         "title": "[Demo] Trip Price Estimator",
         "img": "trip_estimator.webp",
-        "url": "https://codepen.io/kitanga/full/gqXENW"
+        "url": "https://codepen.io/kitanga/full/gqXENW",
+        "stack": [
+            "JS"
+        ]
     },
     {
         "title": "[Mobile Only] NED App",
         "img": "ned.webp",
-        "url": "https://nedapp.co.za/"
+        "url": "https://nedapp.co.za/",
+        "stack": [
+            "Firebase",
+            "JS/TS"
+        ]
     }
 ]
