@@ -18,11 +18,10 @@
         "img": "timeshuffle.webp",
         "url": "https://timeshuffle.io",
         "stack": [
-            "Pixijs",
+            "Cocos 3D",
             "NodeJS",
             "Moleculerjs",
             "Prisma",
-            "Cocos 3D",
             "Firebase"
         ]
     },
@@ -76,7 +75,8 @@
         "img": "old_website_2021.webp",
         "url": "http://web.archive.org/web/20220203004639/https://kitanga.dev/",
         "stack": [
-            "Vuejs"
+            "Vuejs",
+            "Threejs"
         ]
     },
     {
