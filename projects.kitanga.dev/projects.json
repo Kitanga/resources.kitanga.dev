@@ -5,7 +5,7 @@
         "url": "https://app.obsidi.com/jobs",
         "stack": [
             "JS/TS",
-            "React",
+            "Reactjs",
             "Material UI",
             "Knexjs",
             "Styled Components",
@@ -100,6 +100,7 @@
         "img": "ned.webp",
         "url": "https://nedapp.co.za/",
         "stack": [
+            "Reactjs",
             "Firebase",
             "JS/TS"
         ]
