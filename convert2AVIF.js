@@ -9,13 +9,13 @@ const files = await readdir(img_folder);
 
 console.log(files);
 
-files.filter(file => file.includes('.webp')).forEach(async file => {
+files.filter(file => !file.includes('.avif')).forEach(async file => {
     readFile(join('projects.kitanga.dev', 'img', file)).then(buf => {
         const sharpFile = sharp(buf);
 
         sharpFile
             .avif({
                 effort: 7
-            }).toFile(join('projects.kitanga.dev', 'img', file.replace('.webp', '.avif')));
+            }).toFile(join('projects.kitanga.dev', 'img', file.replace(/.webp|.png/g, '.avif')));
     });
 })
