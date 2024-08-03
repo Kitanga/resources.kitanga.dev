@@ -72,7 +72,7 @@
     {
         "title": "[Demo] Dynamo Shmup (Gamepad supported)",
         "img": "dynamo.avif",
-        "url": "https://project-dynamo.onrender.com/",
+        "url": "https://kitanga.github.io/project-dynamo/dist/index.html",
         "stack": [
             "JS/TS",
             "Pixijs"
