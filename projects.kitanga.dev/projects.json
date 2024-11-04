@@ -1,5 +1,13 @@
 [
     {
+        "title": "Dribbble Designs",
+        "img": "dribbble.avif",
+        "url": "https://dribbble.com/kitanga",
+        "stack": [
+            "Figma"
+        ]
+    },
+    {
         "title": "Sunbaked",
         "stack": [
             "Threejs",
