@@ -9,6 +9,8 @@
     },
     {
         "title": "Sunbaked",
+        "type": "video",
+        "video_url": "Sunbaked Gameplay Preview~1.mp4",
         "stack": [
             "Threejs",
             "Solidjs",
